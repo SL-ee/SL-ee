@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Soomin</h1>
+<h1>Hi 👋, I'm Soomin from Korea</h1>
 <h3>(want to be) A data analyst, frontend developer based on Journalism</h3>
 <br></br>
 
