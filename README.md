@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soomin</h1>
-<h3 align="center">(want to be) A data analyst, frontend developer from Korea</h3>
+<h1>Hi 👋, I'm Soomin</h1>
+<h3>(want to be) A data analyst, frontend developer from Korea</h3>
+
 
 - 🔭 I’m currently working for [Kyunghyang](https://www.khan.co.kr/)
 
