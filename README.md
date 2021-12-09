@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for [Kyunghyang](https://www.khan.co.kr/)
 
-- 🌱 I’m currently learning **d3, javascript**
+- 🌱 I’m currently learning **d3, nodejs**
 
 - 📫 How to reach me **dkssud122103@gmail.com**
 
